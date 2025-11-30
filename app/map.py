@@ -10,7 +10,7 @@ PLACES_URL = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
 GEOLOCATION_URL = "https://www.googleapis.com/geolocation/v1/geolocate"
 
 # Move this to config.py or environment variables in production
-API_KEY = "AIzaSyChswIpHXtx3fxAwHxlay4w3w8KlAxb5K0"
+API_KEY = "API_KEY"
 VALID_TYPES = {"doctor", "hospital", "pharmacy"}
 
 
