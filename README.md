@@ -68,8 +68,8 @@ Camera & audio APIs
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/HealthMaxxer.ai.git
-cd HealthMaxxer.ai
+git clone https://github.com/yourusername/HealthMaxxer.git
+cd HealthMaxxer
 
 2️⃣ Create Virtual Environment
 python -m venv venv
